@@ -1,22 +1,27 @@
+
+// WARNING:
+// This code is not guaranteed to be free of bugs: 
+// You may have to change or reorganize it to make PONG work right!  
+// I suggest you make incremental adjustments and then test the code by running it.  
+// ... and use comments to track what you are doing.  
+
 // VARIABLES and DATA MODEL
-var paddle1, paddle2, ball;
-var player1score, player2score;
-var boundaries;
-var boop_oscillator;
-var point_sound;
-var win_sound;
+var paddle1, paddle2, ball; // positions of the game elements 
+var player1score, player2score;  // keep score for the game
+var boundaries;  // define the court space within the canvas
+var boop_oscillator; // put an oscilator in here, and then use it to make sounds
+var point_sound; // optional? use a sound file and play it when a point is scored? 
+var win_sound; // optional? use this for a sound that plays when the game is won?
 var keyspressed = {
-  a: false,
+  a: false, 
   z: false,
   k: false,
   m: false,
   spacebar: false
-};
+}; // track user inputs
 
 var GAMESTATE = 'START_GAME';
 // 'GAME_OVER', 'POINT_OVER', 'IN_PLAY'
-
-
 
 function preload() {
   // get sounds ready 
