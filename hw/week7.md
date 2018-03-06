@@ -1,16 +1,14 @@
 ### Homework 7 (due Midnight Sunday, March 11, 2018)
 
-In this homework, you'll extend some Pong code and learn about Arduino.
+In this homework, you'll extend some Pong code and learn about Arduino. Save your work with the filenames I have specified and put it in a repository labeled 'hw7'.  Submit the url using the [usual form](https://docs.google.com/forms/d/e/1FAIpQLSdsmP-O5zUX7yqt2SPWE9AiUPgcG28jPrEjmigq1fqCVSBxpQ/viewform) 
 
 #### Pong
 
-We started writing pong in class, and ended up with [this code](https://github.com/cantor10000/cca-programming-electronics-spring-2018/blob/master/class_code/pong_monday.js). 
-I've added some comments to the code with hints on how to make certain changes.  
+We started writing pong in class, and ended up with [this code](https://github.com/cantor10000/cca-programming-electronics-spring-2018/blob/master/class_code/pong_monday.js).  I've added some comments to the code with hints on how to make certain changes.  
 
 **Assignment 1**: `pong.js`: 
 
-1) 30 POINTS Modify the code above to make the ball appear at a random height (but still in the middle of the playing space) and  
-with a random velocity, so that the ball is moving either up and right, down and right, down and left, or up and left: with EQUAL PROBABILITY!    
+1) 30 POINTS Modify the code above to make the ball appear at a random height (but still in the middle of the playing space) and with a randomized velocity, so that the ball is moving either up and right, down and right, down and left, or up and left, with equal probability!    
 
 2) 30 POINTS Modify the code to make some noise.  You can:
  - Make the ball "boop" when it bounces off a paddle or the top borders!  
@@ -27,7 +25,7 @@ OR
 
 **Super Bonus Challenge**: +20 POINTS Extend the game by adding some new or special feature to the game.  Make sure you put a comment your code to say what you added!
 
-Save your version of the code as `pong.js` in a repository labeled 'hw7', and submit it using the [usual form](https://docs.google.com/forms/d/e/1FAIpQLSdsmP-O5zUX7yqt2SPWE9AiUPgcG28jPrEjmigq1fqCVSBxpQ/viewform) 
+Save your new version of the code as `pong.js` containing all the changes you have made.  Do not submit separate files.
 
 #### Preparing for Arduino (due before class on Wednesday)
 
@@ -37,10 +35,7 @@ In class, You'll receive an [AdaFruit Feather 32u4 Bluefruit LE board](https://l
 
 **Assignment 2**: 40 POINTS
 
-Prepare your computer to use this board by following these instructions: 
-[part 1](https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/setup) 
-AND 
-[part 2](https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/using-with-arduino-ide) -- **make sure you do both parts!**
+Prepare your computer to use this board by following these instructions: [part 1](https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/setup) AND [part 2](https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/using-with-arduino-ide) -- **make sure you do both parts!**
 
 Read these sections from Chapter 1 of the All About Circuits textbook:
  - [Electric Circuits](https://www.allaboutcircuits.com/textbook/direct-current/chpt-1/electric-circuits/) 
@@ -49,6 +44,7 @@ Read these sections from Chapter 1 of the All About Circuits textbook:
  - [Voltage and Current in a Practical Circuit](https://www.allaboutcircuits.com/textbook/direct-current/chpt-1/voltage-current-practical-circuit/) (Note: this is different from section 2 above!)
 
 Answer the following questions and save your answers in a file called 'questions.txt' in your repository:
+
 1) What is voltage?
 2) What is resistance?
 3) Is a short circuit an example of a closed or open circuit?  
