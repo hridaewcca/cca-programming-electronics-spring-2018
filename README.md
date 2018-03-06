@@ -780,17 +780,19 @@ Homework for Week 6: Go back and complete two of the challenge exercises from th
 Week 7: Monday, March 5, 2018
 
 From Idea to Code
-Designing and implementing from scratch, using the data/render/simulate/user input breakdown, a sketch of moderate complexity.
+Designing and implementing from scratch using the data/render/simulate/user input breakdown.  
 
 In class, we started building Pong together. We began by decomposing the game into components, and listing each component under the heading of Data Model, Rendering, Simulation / Gamestate, and User Input/Events:
 
 |     Data Model     |     Rendering       |     Simulation     |      User Input       |
 |--------------------|---------------------|--------------------|-----------------------|
-| puck: `x`, `y`, `xSpeed`, `ySpeed` | puck | move puck, bounce puck |                  |
-| paddles: `x`, `y`  | paddles             | move paddles       |       arrow keys      |
-| scores: `player1`, `player2` | scores    | check for scoring  |                       |
-| defined playspace  | midline             |                    |                       |
+| ball: `x`, `y`, `xSpeed`, `ySpeed` | ball | move ball, bounce ball |                  |
+| paddles: `x`, `y`, length, thickness  | paddles             | move paddles       |       'w''s''o''l'  |
+| score: `player1`, `player2` | scores    | check for scoring  |                       |
+| borders: `leftx`,`rightx`,`topy`,`bottomy` | border |                       |
+| gamestate: 'PLAY','POINT','GAMEOVER','START' | text messages |  | 'spacebar'
 
-We ended up with [this code](class_code/pong_monday.js), which you will extend in [Homework 7](hw/week7.md)
+We ended up with [this code](class_code/pong_monday.js).
 
-Homework for Week 7
+[Homework for Week 7](hw/week7.md)
+
