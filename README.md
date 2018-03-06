@@ -769,3 +769,28 @@ Note what "event" triggers the bouncing. What if we do [something else](https://
 **Exercise**: Incorporate arrays or objects into your visual musical instrument.
 
 [Homework for Week 5](hw/week5.md)
+
+
+Week 6: Monday, February 26, 2018
+
+In class:
+Critique & playtest of your visual musical instrument.
+
+Homework for Week 6: Go back and complete two of the challenge exercises from the weeks 4-5. Put them in your week 6 repository named challenge1.js and challenge2.js note in a comment at the top which assignment / challenge it is.  Submit as per usual.
+
+Week 7: Monday, March 5, 2018
+
+From Idea to Code
+Designing and implementing from scratch, using the data/render/simulate/user input breakdown, a sketch of moderate complexity.
+
+In class, we started building Pong together. We began by decomposing the game into components, and listing each component under the heading of Data Model, Rendering, Simulation / Gamestate, and User Input/Events:
+
+Data Model	Rendering	Simulation	User Input
+puck: x, y, xSpeed, ySpeed	puck	move puck, bounce puck	
+paddles: x, y	paddles	move paddles	arrow keys
+scores: player1, player2	scores	check for scoring	
+defined playspace	midline		
+
+we ended up with 
+
+Homework for Week 7
