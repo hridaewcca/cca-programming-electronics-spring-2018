@@ -103,6 +103,9 @@ function checkInput() {
 
 // this function updates the game state and the data that we use to simulate the game.
 // it is the "logic" of the game.  
+// Please modify this function so that the game 
+// ENDS when one player reaches a particular score.
+// and display text saying which player has won
 function updateState() {
   if (GAMESTATE == 'START') {
     initializePositions();
