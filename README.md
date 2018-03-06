@@ -770,7 +770,6 @@ Note what "event" triggers the bouncing. What if we do [something else](https://
 
 [Homework for Week 5](hw/week5.md)
 
-
 Week 6: Monday, February 26, 2018
 
 In class:
@@ -785,12 +784,13 @@ Designing and implementing from scratch, using the data/render/simulate/user inp
 
 In class, we started building Pong together. We began by decomposing the game into components, and listing each component under the heading of Data Model, Rendering, Simulation / Gamestate, and User Input/Events:
 
-Data Model	Rendering	Simulation	User Input
-puck: x, y, xSpeed, ySpeed	puck	move puck, bounce puck	
-paddles: x, y	paddles	move paddles	arrow keys
-scores: player1, player2	scores	check for scoring	
-defined playspace	midline		
+|     Data Model     |     Rendering       |     Simulation     |      User Input       |
+|--------------------|---------------------|--------------------|-----------------------|
+| puck: `x`, `y`, `xSpeed`, `ySpeed` | puck | move puck, bounce puck |                  |
+| paddles: `x`, `y`  | paddles             | move paddles       |       arrow keys      |
+| scores: `player1`, `player2` | scores    | check for scoring  |                       |
+| defined playspace  | midline             |                    |                       |
 
-we ended up with 
+We ended up with [this code](class_code/pong_monday.js), which you will extend in [Homework 7](hw/week7.md)
 
 Homework for Week 7
