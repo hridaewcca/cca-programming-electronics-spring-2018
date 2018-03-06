@@ -27,7 +27,7 @@ OR
 
 Save your new version of the code as `pong.js` containing all the changes you have made.  Do not submit separate files.
 
-#### Preparing for Arduino (due before class on Wednesday)
+#### Preparing for Arduino
 
 Next Monday, **bring a project box** to take home (and bring back to class) all your electronic components for the next few weeks. This can be a regular (closeable) cardboard box, or a special box you may find on Amazon or elsewhere.
 
