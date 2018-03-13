@@ -1,6 +1,6 @@
 ### Homework 8 (due Monday, March 26, 2018)
 
-In this assignemnt, you'll practice building circuits on your breadboard from a schematic, and then you'll exercise your creative skills to build a set of status notifications using just a single pixel -- one LED!
+In this assignment, you'll practice building circuits on your breadboard from a schematic, and then you'll exercise your creative skills to build a set of status notifications using just a single pixel -- one LED!
 
 Before you start writing any code, **make sure to browse through the [Arduino reference](https://www.arduino.cc/reference/en/) to see what functionality is available to you!**
 
