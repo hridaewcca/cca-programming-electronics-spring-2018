@@ -796,3 +796,10 @@ We ended up with [this code](class_code/pong_monday.js).
 
 [Homework for Week 7](hw/week7.md)
 
+Week 8: Monday, March 12, 2018
+
+Arduino!
+
+We handed out your kits and got our Feather microprocessor boards connected to our computers and running code.  To review the slides from the class please [visit this link](https://docs.google.com/presentation/d/1cyP9YBjd5OCDWhEGY5-e_IvJcPgebJN6U5EOLe8Uk1Y/edit?usp=sharing).
+
+[Homework for Week 8](hw/week8.md)
