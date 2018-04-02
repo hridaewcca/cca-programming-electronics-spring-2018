@@ -5,7 +5,7 @@ Prepare for next week's in-class quiz, on Monday, April 9. As a reminder, here a
 - Open-notes -- bring whatever notes you wish, including the practice quiz! Printed-out notes are fine.
 - No electronic devices allowed -- no mobile phones, no laptops, no tables, no kindles, no Arduinos -- in short, nothing electronic and nothing that can run code (except your brain!)
 
-Finish your proposal for your final project and [send it to me](mailto:cantor@cca.edu) by Monday, April 9.
+Finish your proposal for your final project:
 
 #### Final Project
 
@@ -20,6 +20,8 @@ Some examples of past final projects:
 - Wall Drawbot: a wall-mounted pen controlled by an Arduino that can draw an arbitrary drawing, perhaps from an SVG file.
 
 **Assignment**: Create a new github repository for your final project, and modify the README.md file to include your project proposal. To learn about formatting text in markdown `.md` files, read [this tutorial](https://help.github.com/articles/markdown-basics/) and look at the [project proposal template](project-template.md).
+
+**Submit the link to you github repository using [the usual form](https://docs.google.com/forms/d/e/1FAIpQLSdsmP-O5zUX7yqt2SPWE9AiUPgcG28jPrEjmigq1fqCVSBxpQ/viewform)**
 
 Check out this [sample project proposal](sample-proposal.md).
 
