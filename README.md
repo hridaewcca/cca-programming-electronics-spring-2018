@@ -830,6 +830,15 @@ Using one of your two servos, **add** this circuit to your breadboard:
 
 ![Servo signal on pin 5, using 6V battery pack for power](img/servo-circuit.png)
 
+**BEWARE!
+Your servo has three wires, RED, BLACK, and YELLOW.  Make sure you understand which wire is which before you wire it up.**
+
+Red: goes to +6V on the battery pack
+Black: goes to ground
+Yellow: is the input to the servo motor from pin 5 on your feather.
+
+If you rush through the wiring, you may get confused, because the Yellow wire is not in the middle of the motor connectors.
+
 Then, create a new sketch with this code, and upload it using Arduino:
 
 ```c
