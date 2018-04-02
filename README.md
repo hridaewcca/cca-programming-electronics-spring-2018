@@ -808,7 +808,7 @@ We handed out your kits and got our Feather microprocessor boards connected to o
 
 JD talked about analog->digital and digital->analog conversion, and showed you how to make voltage divider circuits and use sensors with variable resistance to produce analog inputs to your Feather boards. 
 
-![](http://www.electronics-tutorials.ws/resistor/res10.gif?81223b)
+![](http://www.electronics-tutorials.ws/resistor/res10.gif)
 
 [Homework for Week 8](hw/week9.md)
 
