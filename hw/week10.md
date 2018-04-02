@@ -5,9 +5,7 @@ Prepare for next week's in-class quiz, on Monday, April 9. As a reminder, here a
 - Open-notes -- bring whatever notes you wish, including the practice quiz! Printed-out notes are fine.
 - No electronic devices allowed -- no mobile phones, no laptops, no tables, no kindles, no Arduinos -- in short, nothing electronic and nothing that can run code (except your brain!)
 
-Finish your proposal for your final project:
-
-#### Final Project
+#### But first, finish your Final Project Proposal!
 
 Some examples of past final projects:
 
