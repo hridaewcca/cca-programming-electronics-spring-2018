@@ -806,9 +806,13 @@ We handed out your kits and got our Feather microprocessor boards connected to o
 
 ### Week 9: Monday, March 26, 2018
 
-JD talked about analog->digital and digital->analog conversion, and showed you how to make voltage divider circuits and use sensors with variable resistance to produce analog inputs to your Feather boards. 
+JD talked about analog->digital and digital->analog conversion, and showed you how to make [voltage divider circuits](https://en.wikipedia.org/wiki/Voltage_divider) and use sensors with variable resistance to produce analog inputs to your Feather boards. 
 
-![](http://www.electronics-tutorials.ws/resistor/res10.gif)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Impedance_voltage_divider.svg/220px-Impedance_voltage_divider.svg.png)
+
+![](https://wikimedia.org/api/rest_v1/media/math/render/svg/87a064548a3f0245508a1dca24782acf863b9947)
+
+
 
 [Homework for Week 8](hw/week9.md)
 
