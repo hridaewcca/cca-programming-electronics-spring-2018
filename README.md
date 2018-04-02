@@ -812,9 +812,7 @@ JD talked about analog->digital and digital->analog conversion, and showed you h
 
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/87a064548a3f0245508a1dca24782acf863b9947)
 
-
-
-[Homework for Week 8](hw/week9.md)
+[Homework for Week 9](hw/week9.md)
 
 ### Week 10: Monday, April 2, 2018
 
